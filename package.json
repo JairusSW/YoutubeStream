@@ -1,0 +1,24 @@
+{
+  "name": "youtubeapi",
+  "version": "1.0.0",
+  "description": "Youtube Search and Stream API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JairusSW",
+  "license": "MIT",
+  "dependencies": {
+    "discord-ytdl-core": "^5.0.1",
+    "fastify": "^3.14.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "mime-types": "^2.1.30",
+    "needle": "^2.6.0",
+    "prism-media": "^1.2.9",
+    "selfsigned": "^1.10.8",
+    "ws": "^7.4.4",
+    "ytdl-core": "^4.5.0",
+    "ytdl-core-discord": "^1.3.0",
+    "ytsr": "^3.4.0"
+  }
+}
